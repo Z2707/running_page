@@ -25,7 +25,7 @@ env:
   ATHLETE: 9527
   TITLE: 9527 Running
   MIN_GRID_DISTANCE: 13 # change min distance here
-  TITLE_GRID: Over 10km Runs # also here
+  TITLE_GRID: Over 5km Runs # also here
   GITHUB_NAME: Z2707
   GITHUB_EMAIL: a240355520@qq.com
 
